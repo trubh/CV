@@ -105,6 +105,10 @@ ul {
    
 }
 
+a {
+	text-decoration:none
+}
+
 .name {
     color: var(--main-color);
 }
