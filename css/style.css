@@ -66,6 +66,19 @@ ul {
     margin-left: 20px;
 }
 
+a:link {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:active {
+	color: var(--complementary-color);
+}
+
 .linkedin {
     width: 35px;
     margin-top: 10px;
