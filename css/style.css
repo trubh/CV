@@ -105,7 +105,7 @@ ul {
    
 }
 
-a {
+a:link {
 	text-decoration:none
 }
 
